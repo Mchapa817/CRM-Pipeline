@@ -1,24 +1,24 @@
 # CRM-Pipeline
 # Status
-This project is currently within the data collection stages and therefore does not have a final visualization or recommendations. However, I encourage anyone interested in gaining insight into my approach to new projects to review the outline I’ve set up for the library initiative. It offers a clear view of my planning process, showcasing how I develop and structure ideas before diving into execution. 
+This project is quick example of expanding beyond my current analytical skillset. I am hoping to a show more organized pipeline for generating example data to be processed and cleaned. 
 
 # Table of Contents
-1. [Defining the Problem](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#defining-the-problem)
+1. [Defining the Problem](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#defining-the-problem)
 
-2. [Data Collection](https://github.com/Mchapa817/Library_Funding_Analysis_and_Visualization#data-collection)
+2. [Data Collection](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#data-generation)
    
-3. [Data Cleaning](https://github.com/Mchapa817/Library_Funding_Analysis_and_Visualization#data-cleaning)
+3. [Data Cleaning](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#data-cleaning)
 
-4. [Data Analysis](https://github.com/Mchapa817/Library_Funding_Analysis_and_Visualization#data-analysis)
+4. [Data Analysis](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#data-analysis)
    
-6. [Visualization and Final Recommendations](https://github.com/Mchapa817/Library_Funding_Analysis_and_Visualization#visualization-and-final-recommendations)
+5. [Visualization and Final Recommendations](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#visualization-and-final-recommendations)
    
-8. [References](https://github.com/Mchapa817/Library_Funding_Analysis_and_Visualization#references)
+6. [References](https://github.com/Mchapa817/CRM-Pipeline/edit/main/README.md#references)
 
 # Defining the Problem
-tet
+For this project, we are going to be simulating a hypothetical mid-sized company. This company will track their CRM data across several data tables. Data will be generated using Python. 
 
-# Data Collection
+# Data Generation
 yt
 
 # Data Cleaning
